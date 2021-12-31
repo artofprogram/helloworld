@@ -1,3 +1,9 @@
+/*
+//
+//  This programm create 30.12.2021
+//
+*/
+
 #include <stdio.h>
 
 int main(){
